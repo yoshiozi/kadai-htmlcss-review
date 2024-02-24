@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+
+
+/* ヘッダーの色設定 */
+header {
+    background-color: #ffcccc;
+    width: 1000px;
+}
+
+/* メイン・メニューの色設定 */
+#main {
+    background-color: #ccffcc;
+    width: 700px;
+}
+
+#menu {
+    background-color: #ccccff;
+    width: 300px;
+}
+
+/* フッターの色設定 */
+footer {
+    background-color: #ffccff;
+    width: 1000px;
+}
+
+/* ワッパーの並べて表示と横幅設定 */
+#wrapper {
+    display: flex;
+}
